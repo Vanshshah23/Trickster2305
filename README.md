@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**Trickster2305/Trickster2305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**vanshshah23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
